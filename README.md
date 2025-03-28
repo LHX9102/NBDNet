@@ -34,8 +34,8 @@ matplotlib (for visualization)
 # Usage    
 "data" folder contains a pair of coregistered single look complex (SLC) SAR images (the flat earth phase has been removed from the slave SLC);   
 "results" folder contains the denoised interferograms by NBDNet;   
-"NBDNet_model.hdf5" is the model file of NBDNet   
-"NBDNet.py" is the model implementation script   
-"demo_single_look.py" is the demo script for single-look denoising   
-"demo_multi_look.py" is the demo script for multi-look denoising   
+"NBDNet_model.hdf5" is the model file of NBDNet;   
+"NBDNet.py" is the model implementation script;   
+"demo_single_look.py" is the demo script for single-look denoising;   
+"demo_multi_look.py" is the demo script for multi-look denoising.   
 
